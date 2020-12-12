@@ -1,0 +1,22 @@
+h2 {
+   text-align: center;
+   
+}
+.btn1 {
+   width: 250px;
+  }
+
+
+.form-check {
+   margin: 0 150px;
+}
+.container-fluid {
+   margin-bottom: 20px;
+}
+
+.card-body {
+   margin-bottom: 5px;
+}
+.btn {
+   margin-bottom: 5px;
+}
